@@ -1,0 +1,30 @@
+{
+  "startedAt": "2025-11-04T06:33:40.757Z",
+  "results": [
+    {
+      "title": "allows a logged-in user to complete a purchase",
+      "fullTitle": " › chromium › e2e/checkout.spec.ts › Demo Web Shop checkout › allows a logged-in user to complete a purchase",
+      "status": "passed",
+      "duration": 16473,
+      "retry": 0,
+      "annotations": [],
+      "attachments": [
+        {
+          "name": "trace",
+          "contentType": "application/zip"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    "chromium",
+    "firefox",
+    "webkit"
+  ],
+  "finishedAt": "2025-11-04T06:33:57.865Z",
+  "status": "passed",
+  "totalTests": 1,
+  "passed": 1,
+  "failed": 0,
+  "skipped": 0
+}
